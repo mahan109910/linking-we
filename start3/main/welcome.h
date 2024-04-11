@@ -17,6 +17,12 @@ public:
     welcome(QWidget *parent = nullptr);
     ~welcome();
 
+private slots:
+
+    void on_pushButton_Persian_clicked();
+
+    void on_pushButton_English_clicked();
+
 private:
     Ui::welcome *ui;
 };

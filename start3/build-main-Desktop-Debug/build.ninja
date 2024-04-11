@@ -192,7 +192,7 @@ build main_autogen/timestamp main_autogen/mocs_compilation.cpp | ${cmake_ninja_w
 #############################################
 # Custom command for main_autogen\EWIEGA46WW\qrc_image.cpp
 
-build main_autogen/EWIEGA46WW/qrc_image.cpp | ${cmake_ninja_workdir}main_autogen/EWIEGA46WW/qrc_image.cpp: CUSTOM_COMMAND D$:/sobooty/Qt/start3/main/image.qrc CMakeFiles/main_autogen.dir/AutoRcc_image_EWIEGA46WW_Info.json D$:/sobooty/Qt/start3/main/image/qt6.png C$:/Qt/6.6.2/mingw_64/./bin/rcc.exe || main_autogen main_autogen_timestamp_deps
+build main_autogen/EWIEGA46WW/qrc_image.cpp | ${cmake_ninja_workdir}main_autogen/EWIEGA46WW/qrc_image.cpp: CUSTOM_COMMAND D$:/sobooty/Qt/start3/main/image.qrc CMakeFiles/main_autogen.dir/AutoRcc_image_EWIEGA46WW_Info.json D$:/sobooty/Qt/start3/main/image/qt6.png D$:/sobooty/Qt/start3/main/image/2.png D$:/sobooty/Qt/start3/main/image/qt8.png D$:/sobooty/Qt/start3/main/image/1.png D$:/sobooty/Qt/start3/main/image/qt7.png C$:/Qt/6.6.2/mingw_64/./bin/rcc.exe || main_autogen main_autogen_timestamp_deps
   COMMAND = cmd.exe /C "cd /D D:\sobooty\Qt\start3\build-main-Desktop-Debug && C:\Qt\Tools\CMake_64\bin\cmake.exe -E cmake_autorcc D:/sobooty/Qt/start3/build-main-Desktop-Debug/CMakeFiles/main_autogen.dir/AutoRcc_image_EWIEGA46WW_Info.json Debug"
   DESC = Automatic RCC for image.qrc
   restat = 1
@@ -201,7 +201,7 @@ build main_autogen/EWIEGA46WW/qrc_image.cpp | ${cmake_ninja_workdir}main_autogen
 #############################################
 # Phony custom command for CMakeFiles\main_autogen_timestamp_deps
 
-build CMakeFiles/main_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/main_autogen_timestamp_deps: phony C$:/Qt/6.6.2/mingw_64/lib/libQt6Core.a C$:/Qt/6.6.2/mingw_64/./bin/moc.exe C$:/Qt/6.6.2/mingw_64/./bin/uic.exe C$:/Qt/6.6.2/mingw_64/lib/libQt6Widgets.a
+build CMakeFiles/main_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/main_autogen_timestamp_deps: phony C$:/Qt/6.6.2/mingw_64/lib/libQt6Core.a C$:/Qt/6.6.2/mingw_64/./bin/uic.exe C$:/Qt/6.6.2/mingw_64/./bin/moc.exe C$:/Qt/6.6.2/mingw_64/lib/libQt6Widgets.a
 
 
 #############################################
