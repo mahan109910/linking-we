@@ -1,0 +1,9 @@
+D:/sobooty/Qt/start3/build-main-Desktop-Debug/CMakeFiles/main.dir
+D:/sobooty/Qt/start3/build-main-Desktop-Debug/CMakeFiles/edit_cache.dir
+D:/sobooty/Qt/start3/build-main-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+D:/sobooty/Qt/start3/build-main-Desktop-Debug/CMakeFiles/list_install_components.dir
+D:/sobooty/Qt/start3/build-main-Desktop-Debug/CMakeFiles/install.dir
+D:/sobooty/Qt/start3/build-main-Desktop-Debug/CMakeFiles/install/local.dir
+D:/sobooty/Qt/start3/build-main-Desktop-Debug/CMakeFiles/install/strip.dir
+D:/sobooty/Qt/start3/build-main-Desktop-Debug/CMakeFiles/main_autogen_timestamp_deps.dir
+D:/sobooty/Qt/start3/build-main-Desktop-Debug/CMakeFiles/main_autogen.dir
