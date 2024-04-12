@@ -256,6 +256,18 @@
 	"HEADERS" : 
 	[
 		[
+			"D:/sobooty/Qt/start3/main/login.h",
+			"MU",
+			"EWIEGA46WW/moc_login.cpp",
+			null
+		],
+		[
+			"D:/sobooty/Qt/start3/main/singin.h",
+			"MU",
+			"EWIEGA46WW/moc_singin.cpp",
+			null
+		],
+		[
 			"D:/sobooty/Qt/start3/main/welcome.h",
 			"MU",
 			"EWIEGA46WW/moc_welcome.cpp",
@@ -332,7 +344,9 @@
 	"SETTINGS_FILE" : "D:/sobooty/Qt/start3/build-main-Desktop-Debug/CMakeFiles/main_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "D:/sobooty/Qt/start3/main/login.cpp", "MU", null ],
 		[ "D:/sobooty/Qt/start3/main/main.cpp", "MU", null ],
+		[ "D:/sobooty/Qt/start3/main/singin.cpp", "MU", null ],
 		[ "D:/sobooty/Qt/start3/main/welcome.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],

@@ -519,7 +519,13 @@ main_autogen/timestamp: \
   main_autogen/moc_predefs.h \
   D:/sobooty/Qt/start3/main/CMakeLists.txt \
   D:/sobooty/Qt/start3/main/image.qrc \
+  D:/sobooty/Qt/start3/main/login.cpp \
+  D:/sobooty/Qt/start3/main/login.h \
+  D:/sobooty/Qt/start3/main/login.ui \
   D:/sobooty/Qt/start3/main/main.cpp \
+  D:/sobooty/Qt/start3/main/singin.cpp \
+  D:/sobooty/Qt/start3/main/singin.h \
+  D:/sobooty/Qt/start3/main/singin.ui \
   D:/sobooty/Qt/start3/main/welcome.cpp \
   D:/sobooty/Qt/start3/main/welcome.h \
   D:/sobooty/Qt/start3/main/welcome.ui

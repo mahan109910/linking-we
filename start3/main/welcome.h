@@ -23,6 +23,10 @@ private slots:
 
     void on_pushButton_English_clicked();
 
+    void on_pushButton_P_Register_clicked();
+
+    void on_pushButton_P_LogIn_clicked();
+
 private:
     Ui::welcome *ui;
 };
